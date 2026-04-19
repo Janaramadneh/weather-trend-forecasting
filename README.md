@@ -69,7 +69,7 @@ Combined predictions from ARIMA, Prophet, and Random Forest to improve forecasti
 
 ---
 
-##⚙️ How to Run
+## How to Run
 
 ```bash
 pip install -r requirements.txt
